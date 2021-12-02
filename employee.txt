@@ -1,0 +1,2 @@
+admin		admin		admin		01012345678		manager
+staff		123		staff		01012345678		staff
